@@ -57,9 +57,6 @@ git clone https://github.com/YourRepoLinkHere
 2. Open `Amman_Stock_Exchange_Dashboard.pbix` using **Power BI Desktop**
 3. Interact with slicers, visuals, and narratives to explore insights
 
-## 📈 Dashboard Preview
-
-*You can insert screenshots of the dashboard here for demonstration.*
 
 ## 📄 License
 
